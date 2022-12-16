@@ -9,4 +9,8 @@ The project members are Eduardo Massad, Jorge P. Zubelli, Vinicius Albani, Franc
 
 # How to use this repository
 
-# Contacts
+## Contacts
+
+* Vinicius Albani: v.albani@ufsc.br
+
+* Jennifer Loría: jennyls@impa.br
