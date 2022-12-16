@@ -6,3 +6,7 @@ Program in Python associated with the generation of vaccination scenarios in the
 The project members are Eduardo Massad, Jorge P. Zubelli, Vinicius Albani, Francisco A. B. Coutinho, Dimas T. Covas, Claudio J. Struchiner and Jennifer Loria.
 
 # Repository contents
+
+# How to use this repository
+
+# Contacts
