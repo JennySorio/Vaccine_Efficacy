@@ -8,7 +8,7 @@ The project members are Eduardo Massad, Jorge P. Zubelli, Vinicius Albani, Franc
 ## Repository contents
 There are two folders: Data and Program. 
 
-In the Data folder we have two excels with the data used in the program: Santos and Coronavac. In addition, this folder has the authorization letter from the Instituto Butantan granted to the members of this team for the preparation of the article.
+In the Data folder we have two excels with the data used in the program: Santos and Coronavac. Santos contains the data on deaths and cases of Covid-19 from February 26, 2020 to October 16, 2020 in the city of Santos, São Paulo. In addition, this folder has the authorization letter from the Instituto Butantan granted to the members of this team for the preparation of the article.
 
 In the Program folder we have
 
