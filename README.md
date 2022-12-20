@@ -23,7 +23,11 @@ The objectives of this program are:
 
 3. Produce the corresponding graphs that reflect the data found in Santos and Coronavac.
 
-To meet the first objective, we use program Vaccine_Efficacy. For this, it is essential to run the first cells where the packages to be used and the description of the model are stored.The other sections of the program (Incidencia,and Efficiency of several simulations at the same time) are independent of each other.
+To meet the first objective, we use program Vaccine_Efficacy. For this, it is essential to run the first cells where the packages to be used and the description of the model are stored.The other sections of the program (Incidencia, Efficacy Graphs and Efficiency of several simulations at the same time) are independent of each other.
+
+For the second objective we use program Sensitivity. All the cells must be run in order before the Sensitivity calculations section.
+
+For the third objective we use program Graphics. We must have program Graphics and the Excel Coronavac and Santos documents in the same folder. The cells must be run in order.
 
 ## Contacts
 
