@@ -10,7 +10,7 @@ There are two folders: Data and Program.
 
 In the Data folder we have two excels with the data used in the program: Santos and Coronavac. Santos contains the data on deaths and cases of Covid-19 from February 26, 2020 to October 16, 2020 in the city of Santos, São Paulo. These data were obtained from https://www.seade.gov.br/coronavirus/ . Coronavac contains daily numbers of individuals inoculated with the vaccine and the placebo during the CORONAVAC® trial in Brazil from  These data were provided by the Instituto Butantan for the preparation of the paper: "Time-Dependent Vaccine Efficacy Estimation Quantified by a Mathematical Model" and we have their respective authorization letter, which is also in the folder.
 
-In the Program folder we have three programs developed in Python.
+In the Program folder we have three programs developed in Python: Sensitivity and Graphics.
 
 
 ## How to use this repository
